@@ -2,6 +2,8 @@
 <p>&#9888 Teknik bir sorundan ötürü güncelleme işlemi çalışmamaktadır. Güncelleme ile düzeltilecektir!  </p>
 <p>&#9888 Excel olarak indirme işlemi çalışmaktadır fakat çalışanlar excel tablosuna yansımamaktadır! Güncelleme ile düzeltilecektir! </p>
 <p>&#9888 Kişiler JSON veri formatında yerel olarak tutulmaktadır. Güncelleme ile veritabanına ekleme işlemi yapılacaktır! </p>
+<p>&#9888 Varsayılan olarak bir kayıt mevcuttur. Silip kendi verilerinizi ekleyebilirsiniz. </p>
+
 <hr>
 <h3><strong> Kullanmak için yapılması gerekenler. </strong></h3>
 <hr>
@@ -20,6 +22,8 @@
 <p>&#9888 Due to a technical problem, the update process does not work. It will be fixed with the update!  </p>
 <p>&#9888 Downloading as Excel works, but the employees are not reflected in the excel table! It will be fixed with the update! </p>
 <p>&#9888 Contacts are stored locally in JSON data format. Adding to the database will be done with the update! </p>
+<p>&#9888 By default, one record is available. You can delete and add your own data. </p>
+
 <hr>
 <h3><strong> What needs to be done to use it. </strong></h3>
 <hr>
