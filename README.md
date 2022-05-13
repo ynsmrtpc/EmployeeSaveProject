@@ -6,7 +6,7 @@
 <h3><strong> Kullanmak için yapılması gerekenler. </strong></h3>
 <hr>
 <ul>
-	<li>Kodu bilgisayarınıza indirip açtıktan sonra kullandığınız IDE'den terminal penceresini açınız ve npm install yazınız. <br>(Bilgisayarda Node ve npm yüklü olmalıdır. bknz:<a href='https://nodejs.org/en/'> Node Download</a> ) </li>	
+	<li>Kodu bilgisayarınıza indirip açtıktan sonra kullandığınız IDE'den terminal penceresini açınız ve npm install yazınız. <br>(Bilgisayarda Node ve npm yüklü olmalıdır. bknz:<a href='https://nodejs.org/en/' target='_blank'> Node Download</a> ) </li>	
 	<li>Tüm node modülleri yüklendikten sonra <b>"node modules"</b> adında bir klasör oluşacaktır. </li>
 	<li>Tekrar terminal ekranına gelip <br>
 		<b>npm run build</b> <br>
@@ -24,7 +24,7 @@
 <h3><strong> What needs to be done to use it. </strong></h3>
 <hr>
 <ul>
-	<li>After downloading and opening the code to your computer, open the terminal window from the IDE you are using and type npm install. for Node:<a href='https://nodejs.org/en/'> Node Download</a> ) </li>	
+	<li>After downloading and opening the code to your computer, open the terminal window from the IDE you are using and type npm install. for Node:<a href='https://nodejs.org/en/' target='_blank'> Node Download</a> ) </li>	
 	<li>After all node modules are loaded, a folder named <b>"node modules"</b> will be created. </li>
 	<li>You have to come to the terminal screen again and enter the following commands: <br>
 		<b>npm run build</b> <br>
