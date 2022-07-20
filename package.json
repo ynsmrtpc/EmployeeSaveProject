@@ -6,7 +6,8 @@
   "scripts": {
     "start" : "webpack-dev-server --output-public-path=/bundles/ --mode development --open --hot",
     "build" : "webpack --progress",
-    "server": "json-server --watch employees/employee.json"
+    "server": "json-server --watch employees/employee.json",
+    "webpack-build": "webpack --mode production"
   },
   "keywords": [
     "employees",
